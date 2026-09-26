@@ -24,7 +24,7 @@ If you run a 144Hz, 240Hz, or 280Hz+ monitor and leave `Display Capture` running
 ---
 
 
-**NO. (If yea than gg. Shit idea/kekw)**
+**Can you get a ban??? NO. (If yea than gg. Shit idea/kekw)**
 
 - `fg_helper.dll` runs **strictly inside OBS (`obs64.exe`)**.
 - It **never injects** into the game process, doesn't touch game memory, and doesn't read/write anything.
