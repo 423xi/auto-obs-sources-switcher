@@ -1,0 +1,9 @@
+﻿# Build artifacts
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+.vs/
+bin/
+build/
