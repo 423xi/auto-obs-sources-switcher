@@ -8,7 +8,7 @@
 
 ## What does this actually do?
 
-- **In Game:** Instantly hides `Display Capture`. No DWM 280Hz polling overhead = **no -10% FPS penalty and zero micro-stutters**.
+- **In Game:** Instantly hides `Display Capture`. No DWM polling overhead = **no -10% FPS penalty and zero micro-stutters**.
 - **Alt-Tabbed / On Desktop:** Turns `Display Capture` back on and hides `Game Capture`. Your desktop, Chrome, and Discord get captured cleanly without any frozen game frames.
 - **Zero hassle:** Fully automatic for any fullscreen game (CS2, Rust, Apex, whatever you play).
 
